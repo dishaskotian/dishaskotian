@@ -1,7 +1,7 @@
 <div align="center">
   <div style="display:inline-block;padding:18px 22px;border-radius:16px;border:1px solid #e6e6e6;box-shadow:0 18px 40px rgba(0,0,0,.18);background:#0d1117;">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=900&duration=2500&center=true&vCenter=true&width=520&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Disha+S+Kotian;Software+Developer;Tech+Enthusiast;B.tech+UndreGrad"
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=900&duration=2500&center=true&vCenter=true&width=520&height=60&lines=Hey+%F0%9F%91%8B%2C+Disha+S+Kotian+here;Software+Developer;Tech+Enthusiast;B.tech+UndreGrad"
       alt="Typing Intro" />
   </div>
 </div>
